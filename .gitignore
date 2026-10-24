@@ -1,0 +1,46 @@
+﻿# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# JavaScript dependencies and build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Python virtual environments and cache
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+**/.venv_backup*/
+
+# Large local OCR model weights
+handwriting-ocr-model/
+**/handwriting-ocr-model/
+*.safetensors
+*.pt
+*.pth
+*.onnx
+.cache/
+.huggingface/
+
+# Local databases, logs, and generated data
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Local prescription test images - avoid uploading patient information
+medicine1.jpeg
+medicine2.jpeg
+medicine3.jpeg
+
+# Android build files
+android/.gradle/
+android/build/
+android/app/build/

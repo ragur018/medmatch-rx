@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="930" viewBox="0 0 720 930">
+  <rect width="720" height="930" rx="18" fill="#e9edf3"/>
+  <rect x="54" y="28" width="612" height="874" rx="8" fill="#fffefa" stroke="#d8d6cf" stroke-width="2"/>
+  <text x="92" y="87" font-family="Georgia, serif" font-size="29" fill="#202e39" font-weight="bold">NORTHFIELD FAMILY CLINIC</text>
+  <text x="92" y="116" font-family="Arial, sans-serif" font-size="13" fill="#6d7883">General Practice · Consultation &amp; Care</text>
+  <line x1="92" y1="137" x2="628" y2="137" stroke="#b8c5cc" stroke-width="2"/>
+  <text x="92" y="173" font-family="Arial, sans-serif" font-size="13" fill="#71808a">Patient: DEMO PATIENT</text>
+  <text x="430" y="173" font-family="Arial, sans-serif" font-size="13" fill="#71808a">Date: 23 Oct 2026</text>
+  <text x="92" y="226" font-family="Georgia, serif" font-size="40" fill="#526d8a" font-style="italic">℞</text>
+  <path d="M94 244 C120 235,129 249,148 239 S180 251,204 238" stroke="#536f8e" stroke-width="2" fill="none" opacity=".6"/>
+  <text x="112" y="294" font-family="'Comic Sans MS', cursive" font-size="24" fill="#315f9a" font-style="italic" transform="rotate(-1 112 294)">Amoxicillin 500 mg</text>
+  <text x="140" y="332" font-family="'Comic Sans MS', cursive" font-size="20" fill="#315f9a" font-style="italic" transform="rotate(-1 140 332)">1 cap · every 8 hours · 5 days</text>
+  <line x1="92" y1="362" x2="625" y2="362" stroke="#e7e7e2"/>
+  <text x="112" y="414" font-family="'Comic Sans MS', cursive" font-size="24" fill="#315f9a" font-style="italic" transform="rotate(-1.5 112 414)">Hydroxyzine 25 mg</text>
+  <text x="140" y="454" font-family="'Comic Sans MS', cursive" font-size="20" fill="#315f9a" font-style="italic" transform="rotate(-1 140 454)">1 tablet · twice daily · 7 days</text>
+  <path d="M112 426 Q220 433 307 420" stroke="#315f9a" stroke-width="1.5" fill="none" opacity=".5"/>
+  <text x="92" y="522" font-family="Arial, sans-serif" font-size="12" fill="#a1a8ad">DEMO DOCUMENT — fictional prescription for UI testing only</text>
+  <path d="M385 680 C432 658,470 706,508 677 S566 693,595 665" stroke="#6482a2" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="458" y="724" font-family="Georgia, serif" font-size="18" fill="#526d8a" font-style="italic">Dr. A. Example</text>
+  <line x1="420" y1="741" x2="622" y2="741" stroke="#b7c3ce"/>
+  <text x="92" y="830" font-family="Arial, sans-serif" font-size="12" fill="#8b969e">This image and its contents are synthetic sample data.</text>
+</svg>
