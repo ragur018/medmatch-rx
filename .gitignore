@@ -44,3 +44,7 @@ medicine3.jpeg
 android/.gradle/
 android/build/
 android/app/build/
+
+# Local backup files
+backend/main_backup.py
+backend/main_before_ocr_integration.py
